@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "babukn": "./bin/babukn.js"
+    "cc": "./bin/cc.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
