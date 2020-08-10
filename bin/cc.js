@@ -1,5 +1,5 @@
 #!/usr/bin/env node
- // console.log('cli ..... kkb')
+ console.log('cli ..... cc')
 const program = require('commander')
 program.version(require('../package.json').version)
 
